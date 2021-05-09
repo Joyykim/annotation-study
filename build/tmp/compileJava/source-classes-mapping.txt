@@ -1,0 +1,8 @@
+person/Component.java
+ person.Component
+person/Person.java
+ person.Person
+person/Main.java
+ person.Main
+person/BeanFactory.java
+ person.BeanFactory
